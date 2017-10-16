@@ -1,0 +1,10 @@
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGBuilder\BGBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGBuilder\BGBuilder\bin\Debug\BGBuilder.exe
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGBuilder\BGBuilder\bin\Debug\BGBuilder.pdb
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGBuilder\BGBuilder\obj\Debug\BGBuilder.exe
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGBuilder\BGBuilder\obj\Debug\BGBuilder.pdb
+C:\Websites\www.beatgraphs.com\Code\BGBuilder\BGBuilder\obj\Debug\BGBuilder.exe
+C:\Websites\www.beatgraphs.com\Code\BGBuilder\BGBuilder\obj\Debug\BGBuilder.pdb
+C:\Websites\www.beatgraphs.com\Code\BGBuilder\BGBuilder\bin\Debug\BGBuilder.exe
+C:\Websites\www.beatgraphs.com\Code\BGBuilder\BGBuilder\bin\Debug\BGBuilder.pdb
+C:\Websites\www.beatgraphs.com\Code\BGBuilder\BGBuilder\obj\Debug\BGBuilder.csprojResolveAssemblyReference.cache

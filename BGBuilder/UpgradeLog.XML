@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BGBuilder">
+</Property><Property Name="Solution File" Value="D:\WebSites\beatgraphs.com\CodeBackup\BGBuilder\BGBuilder\BGBuilder.sln">
+</Property><Property Name="Date" Value="Saturday, July 14, 2012">
+</Property><Property Name="Time" Value="15:16 PM">
+</Property></Properties><Event ErrorLevel="0" Project="BGBuilder" Source="BGBuilder\BGBuilder.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BGBuilder" Source="BGBuilder\BGBuilder.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BGBuilder.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BGBuilder.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BGBuilder" Source="BGBuilder\BGBuilder.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,17 @@
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGBuilder\BGBuilder\bin\Release\BGBuilder.exe
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGBuilder\BGBuilder\bin\Release\BGBuilder.pdb
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGBuilder\BGBuilder\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGBuilder\BGBuilder\obj\Release\BGBuilder.exe
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGBuilder\BGBuilder\obj\Release\BGBuilder.pdb
+D:\WebSites\beatgraphs.com\CodeBackup\BGBuilder\BGBuilder\BGBuilder\obj\Release\BGBuilder.exe
+D:\WebSites\beatgraphs.com\CodeBackup\BGBuilder\BGBuilder\BGBuilder\obj\Release\BGBuilder.pdb
+D:\WebSites\beatgraphs.com\Code\BGBuilder\BGBuilder\BGBuilder\obj\Release\BGBuilder.exe
+D:\WebSites\beatgraphs.com\Code\BGBuilder\BGBuilder\BGBuilder\obj\Release\BGBuilder.pdb
+D:\WebSites\beatgraphs.com\Code\BGBuilder\BGBuilder\BGBuilder\bin\Release\BGBuilder.exe
+D:\WebSites\beatgraphs.com\Code\BGBuilder\BGBuilder\BGBuilder\bin\Release\BGBuilder.pdb
+D:\WebSites\beatgraphs.com\Code\BGBuilder\BGBuilder\BGBuilder\obj\Release\BGBuilder.csprojResolveAssemblyReference.cache
+C:\Websites\www.beatgraphs.com\Code\BGBuilder\BGBuilder\obj\Release\BGBuilder.exe
+C:\Websites\www.beatgraphs.com\Code\BGBuilder\BGBuilder\obj\Release\BGBuilder.pdb
+C:\Websites\www.beatgraphs.com\Code\BGBuilder\BGBuilder\bin\Release\BGBuilder.exe
+C:\Websites\www.beatgraphs.com\Code\BGBuilder\BGBuilder\obj\Release\BGBuilder.csprojResolveAssemblyReference.cache
+C:\Websites\www.beatgraphs.com\Code\BGBuilder\BGBuilder\bin\Release\BGBuilder.pdb
