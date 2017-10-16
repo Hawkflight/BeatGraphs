@@ -1,0 +1,14 @@
+C:\Documents and Settings\Jaime\Local Settings\Application Data\Temporary Projects\BGRunner\bin\Release\BGRunner.exe
+C:\Documents and Settings\Jaime\Local Settings\Application Data\Temporary Projects\BGRunner\bin\Release\BGRunner.pdb
+C:\Documents and Settings\Jaime\Local Settings\Application Data\Temporary Projects\BGRunner\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jaime\Local Settings\Application Data\Temporary Projects\BGRunner\obj\Release\BGRunner.exe
+C:\Documents and Settings\Jaime\Local Settings\Application Data\Temporary Projects\BGRunner\obj\Release\BGRunner.pdb
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGRunner\BGRunner\obj\Release\BGRunner.exe
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGRunner\BGRunner\obj\Release\BGRunner.pdb
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGRunner\BGRunner\bin\Release\BGRunner.exe
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGRunner\BGRunner\bin\Release\BGRunner.pdb
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGRunner\BGRunner\obj\Release\ResolveAssemblyReference.cache
+C:\Websites\www.beatgraphs.com\Code\BGRunner\BGRunner\obj\Release\BGRunner.exe
+C:\Websites\www.beatgraphs.com\Code\BGRunner\BGRunner\obj\Release\BGRunner.pdb
+C:\Websites\www.beatgraphs.com\Code\BGRunner\BGRunner\bin\Release\BGRunner.exe
+C:\Websites\www.beatgraphs.com\Code\BGRunner\BGRunner\bin\Release\BGRunner.pdb
