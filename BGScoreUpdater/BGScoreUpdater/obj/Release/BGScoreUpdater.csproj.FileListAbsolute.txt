@@ -1,0 +1,34 @@
+C:\Documents and Settings\LEllis\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\bin\Release\BGScoreUpdater.exe
+C:\Documents and Settings\LEllis\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\bin\Release\BGScoreUpdater.pdb
+C:\Documents and Settings\LEllis\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\LEllis\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\obj\Release\BGScoreUpdater.exe
+C:\Documents and Settings\LEllis\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\obj\Release\BGScoreUpdater.pdb
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\bin\Release\BGScoreUpdater.exe
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\bin\Release\BGScoreUpdater.pdb
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\obj\Release\BGScoreUpdater.exe
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\obj\Release\BGScoreUpdater.pdb
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\bin\Release\BGScoreUpdater.exe.manifest
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\bin\Release\BGScoreUpdater.application
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\obj\Release\BGScoreUpdater.exe.manifest
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\obj\Release\BGScoreUpdater.application
+D:\WebSites\beatgraphs.com\CodeBackup\BGScoreUpdater\BGScoreUpdater\BGScoreUpdater\obj\Release\BGScoreUpdater.exe
+D:\WebSites\beatgraphs.com\CodeBackup\BGScoreUpdater\BGScoreUpdater\BGScoreUpdater\obj\Release\BGScoreUpdater.pdb
+D:\WebSites\beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\BGScoreUpdater\obj\Release\BGScoreUpdater.exe
+D:\WebSites\beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\BGScoreUpdater\obj\Release\BGScoreUpdater.pdb
+D:\WebSites\beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\BGScoreUpdater\bin\Release\BGScoreUpdater.exe.manifest
+D:\WebSites\beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\BGScoreUpdater\bin\Release\BGScoreUpdater.application
+D:\WebSites\beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\BGScoreUpdater\bin\Release\BGScoreUpdater.exe
+D:\WebSites\beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\BGScoreUpdater\bin\Release\BGScoreUpdater.pdb
+D:\WebSites\beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\BGScoreUpdater\obj\Release\BGScoreUpdater.exe.manifest
+D:\WebSites\beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\BGScoreUpdater\obj\Release\BGScoreUpdater.application
+D:\WebSites\beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\BGScoreUpdater\obj\Release\BGScoreUpdater.csprojResolveAssemblyReference.cache
+C:\Websites\www.beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\obj\Release\BGScoreUpdater.exe
+C:\Websites\www.beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\obj\Release\BGScoreUpdater.pdb
+C:\Websites\www.beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\obj\Release\BGScoreUpdater.csprojResolveAssemblyReference.cache
+C:\Websites\www.beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\bin\Release\BGScoreUpdater.exe.manifest
+C:\Websites\www.beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\bin\Release\BGScoreUpdater.application
+C:\Websites\www.beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\bin\Release\BGScoreUpdater.exe
+C:\Websites\www.beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\bin\Release\BGScoreUpdater.pdb
+C:\Websites\www.beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\obj\Release\BGScoreUpdater.exe.manifest
+C:\Websites\www.beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\obj\Release\BGScoreUpdater.application

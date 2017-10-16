@@ -1,0 +1,28 @@
+C:\Documents and Settings\LEllis\Local Settings\Application Data\Temporary Projects\BGScoreUpdater\bin\Debug\BGScoreUpdater.exe
+C:\Documents and Settings\LEllis\Local Settings\Application Data\Temporary Projects\BGScoreUpdater\bin\Debug\BGScoreUpdater.pdb
+C:\Documents and Settings\LEllis\Local Settings\Application Data\Temporary Projects\BGScoreUpdater\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LEllis\Local Settings\Application Data\Temporary Projects\BGScoreUpdater\obj\Debug\BGScoreUpdater.exe
+C:\Documents and Settings\LEllis\Local Settings\Application Data\Temporary Projects\BGScoreUpdater\obj\Debug\BGScoreUpdater.pdb
+C:\Documents and Settings\LEllis\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\obj\Debug\BGScoreUpdater.exe
+C:\Documents and Settings\LEllis\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\obj\Debug\BGScoreUpdater.pdb
+C:\Documents and Settings\LEllis\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LEllis\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\bin\Debug\BGScoreUpdater.exe
+C:\Documents and Settings\LEllis\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\bin\Debug\BGScoreUpdater.pdb
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\obj\Debug\BGScoreUpdater.exe
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\obj\Debug\BGScoreUpdater.pdb
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\bin\Debug\BGScoreUpdater.exe
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\bin\Debug\BGScoreUpdater.pdb
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\bin\Debug\BGScoreUpdater.exe.manifest
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\bin\Debug\BGScoreUpdater.application
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\obj\Debug\BGScoreUpdater.exe.manifest
+C:\Documents and Settings\Jaime\My Documents\Visual Studio 2008\Projects\BGScoreUpdater\BGScoreUpdater\obj\Debug\BGScoreUpdater.application
+C:\Websites\www.beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\obj\Debug\BGScoreUpdater.exe
+C:\Websites\www.beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\obj\Debug\BGScoreUpdater.pdb
+C:\Websites\www.beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\bin\Debug\BGScoreUpdater.exe.manifest
+C:\Websites\www.beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\bin\Debug\BGScoreUpdater.application
+C:\Websites\www.beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\bin\Debug\BGScoreUpdater.exe
+C:\Websites\www.beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\bin\Debug\BGScoreUpdater.pdb
+C:\Websites\www.beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\obj\Debug\BGScoreUpdater.exe.manifest
+C:\Websites\www.beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\obj\Debug\BGScoreUpdater.application
+C:\Websites\www.beatgraphs.com\Code\BGScoreUpdater\BGScoreUpdater\obj\Debug\BGScoreUpdater.csprojResolveAssemblyReference.cache
